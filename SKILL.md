@@ -1,11 +1,9 @@
 ---
 name: confessional-analysis
-description: Transform any incident, failure, or decision into honest self-examination
-  by addressing the facts directly, examining divided intentions, and identifying
-  disordered priorities - following Augustine...
+description: Transform any incident, failure, or decision into honest self-examination by addressing the facts directly, examining divided intentions, and identifying disordered priorities - following Augustine...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - confessional-analysis
